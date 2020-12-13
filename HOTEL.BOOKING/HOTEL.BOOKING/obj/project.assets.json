@@ -8977,11 +8977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ALL-WORK-PROJECT\\HOTEL-BOOKING-PROJECT\\HOTEL.BOOKING\\HOTEL.BOOKING\\HOTEL.BOOKING.csproj",
+      "projectUniqueName": "D:\\ALL-WORK-PROJECT\\HOTEL-BOOKING-DEMO\\HOTEL.BOOKING\\HOTEL.BOOKING\\HOTEL.BOOKING.csproj",
       "projectName": "HOTEL.BOOKING",
-      "projectPath": "D:\\ALL-WORK-PROJECT\\HOTEL-BOOKING-PROJECT\\HOTEL.BOOKING\\HOTEL.BOOKING\\HOTEL.BOOKING.csproj",
+      "projectPath": "D:\\ALL-WORK-PROJECT\\HOTEL-BOOKING-DEMO\\HOTEL.BOOKING\\HOTEL.BOOKING\\HOTEL.BOOKING.csproj",
       "packagesPath": "C:\\Users\\Nattawoot-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\ALL-WORK-PROJECT\\HOTEL-BOOKING-PROJECT\\HOTEL.BOOKING\\HOTEL.BOOKING\\obj\\",
+      "outputPath": "D:\\ALL-WORK-PROJECT\\HOTEL-BOOKING-DEMO\\HOTEL.BOOKING\\HOTEL.BOOKING\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

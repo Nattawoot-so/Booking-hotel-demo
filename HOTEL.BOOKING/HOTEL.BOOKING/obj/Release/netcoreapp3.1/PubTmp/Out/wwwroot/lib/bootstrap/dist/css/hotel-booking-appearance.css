@@ -29,3 +29,10 @@
 .background-image-hotel {
     width: 100%;
 }
+
+.nav-scroller {
+    position: absolute !important;
+    top:10% !important;
+    background-color:black;
+    width: 100%
+}

@@ -5,4 +5,4 @@
 //    })
 //});
 
-window.scrollTo(x - coord, y - coord);
+window.scrollTo(0, 0);
