@@ -55,7 +55,7 @@ namespace HOTEL.BOOKING
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=NewHome}/{action=NewIndexPage}/{id?}");
+                    pattern: "{controller=Categories}/{action=Index}/{id?}");
             });
         }
     }
